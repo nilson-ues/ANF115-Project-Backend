@@ -130,7 +130,7 @@ export function situacion(libro: Libro, anio: number, mes: number): Situacion {
 export function balanceGeneral(libro: Libro, catalogo: CuentaCatalogo[], anio: number, mes: number) {
   const filas = catalogo
     .filter((c) => ['ACTIVO', 'PASIVO', 'PATRIMONIO'].includes(c.tipo))
-    .map((c) => ({ codigo: c.codigo, nombre: c.nombre, nivel: c.nivel, monto: libro.saldoGrupo(c.codigo, anio, mes) }));
+    .map((c) => ({ codigo: c.codigo, nombre: c.nombre, nivel: c.nivel, detalle: c.acepta_movimiento, monto: libro.saldoGrupo(c.codigo, anio, mes) }));
   const s = situacion(libro, anio, mes);
   const pasivoMasPatrimonio = s.pasivoTotal.plus(s.patrimonio);
   return {

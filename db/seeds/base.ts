@@ -94,6 +94,7 @@ export const PARAMETROS = [
   p('reserva_legal', 'Reserva legal', 'Impuestos', '%', '0.07', 'Porcentaje de la utilidad antes de impuesto y reserva.'),
   p('reserva_legal_limite', 'Límite de reserva legal', 'Impuestos', '%', '0.20', 'La reserva se acumula hasta la quinta parte del capital social.'),
   p('tolerancia_presupuesto', 'Tolerancia de desviación', 'Análisis', '%', '0.05', 'Desviaciones mayores se marcan en el control presupuestario.'),
+  p('umbral_variacion', 'Umbral de variación (análisis horizontal)', 'Análisis', '%', '0.10', 'Variaciones mayores a este porcentaje se resaltan en el análisis horizontal.'),
   p('plazo_credito_clientes', 'Plazo de crédito a clientes', 'Análisis', 'dias', '30', 'Referencia para interpretar el periodo promedio de cobro.'),
   p('costo_capital', 'Costo de capital', 'Análisis', '%', null, 'Tasa mínima que debe superar el ROA (condición de supervivencia). Pendiente de definir.'),
   p('arrendamiento_anual', 'Pagos de arrendamiento anuales', 'Análisis', '$', '0', 'Para el índice de cobertura de pagos fijos.'),

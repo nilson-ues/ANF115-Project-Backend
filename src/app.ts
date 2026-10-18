@@ -16,6 +16,8 @@ import { usuariosRouter } from './modulos/usuarios';
 export function crearApp() {
   const app = express();
   app.disable('x-powered-by');
+  // En Azure la API está detrás de un proxy; necesario para el límite de intentos de login
+  if (config.TRUST_PROXY) app.set('trust proxy', 1);
   app.use(helmet());
   app.use(cors({ origin: config.CORS_ORIGIN.split(',').map((o) => o.trim()) }));
   app.use(express.json({ limit: '1mb' }));

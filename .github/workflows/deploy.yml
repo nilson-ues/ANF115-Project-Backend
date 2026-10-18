@@ -1,0 +1,78 @@
+name: Desplegar API
+
+on:
+  push:
+    branches: [deploy]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-api
+  cancel-in-progress: true
+
+jobs:
+  probar-y-construir:
+    runs-on: ubuntu-latest
+    env:
+      DB_HOST: localhost
+      DB_NAME: ci
+      DB_USER: ci
+      DB_PASSWORD: ci
+      JWT_SECRET: secreto-solo-para-pruebas-de-ci-0123456789
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+          cache: npm
+
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: npm test
+      - run: npm run build
+
+      - name: Preparar paquete
+        run: |
+          mkdir -p dist/db
+          cp -r db/migrations dist/db/migrations
+          npm prune --omit=dev
+          zip -qr api.zip dist node_modules package.json package-lock.json
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: api
+          path: api.zip
+          retention-days: 3
+
+  desplegar:
+    needs: probar-y-construir
+    runs-on: ubuntu-latest
+    environment: produccion
+    steps:
+      - name: Verificar configuración
+        id: config
+        env:
+          PERFIL: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          APP: ${{ vars.AZURE_WEBAPP_NAME }}
+        run: |
+          if [ -z "$PERFIL" ] || [ -z "$APP" ]; then
+            echo "::warning::Falta el secreto AZURE_WEBAPP_PUBLISH_PROFILE o la variable AZURE_WEBAPP_NAME; no se despliega."
+            echo "listo=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "listo=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/download-artifact@v4
+        if: steps.config.outputs.listo == 'true'
+        with:
+          name: api
+
+      - uses: azure/webapps-deploy@v3
+        if: steps.config.outputs.listo == 'true'
+        with:
+          app-name: ${{ vars.AZURE_WEBAPP_NAME }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: api.zip

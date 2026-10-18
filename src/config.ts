@@ -12,7 +12,9 @@ const esquema = z.object({
   DB_PASSWORD: z.string().min(1),
   JWT_SECRET: z.string().min(32),
   JWT_EXPIRES_IN: z.string().default('8h'),
-  CORS_ORIGIN: z.string().default('http://localhost:4200')
+  CORS_ORIGIN: z.string().default('http://localhost:4200'),
+  DB_SSL: z.stringbool().default(false),
+  TRUST_PROXY: z.stringbool().default(false)
 });
 
 export const config = esquema.parse(process.env);

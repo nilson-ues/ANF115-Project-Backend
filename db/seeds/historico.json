@@ -1,0 +1,10082 @@
+[
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "73180.96"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "124473.59"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "114680.83"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "101364.20"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "94325.04"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "171173.76"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "140107.28"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "57344.54"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "75733.29"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "86178.49"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "54728.33"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "59116.80"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "3085.80"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "4488.81"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "31013.92"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1539.96"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "4968.97"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1197.58"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1006.97"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "3069.83"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "2964.45"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "4828.16"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1846.66"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "885.69"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "35891.28"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "61331.05"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "54884.21"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "46297.21"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "37856.01"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "73762.02"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "70198.13"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "30678.93"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "47742.87"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "50185.29"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "19462.74"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "93163.87"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "20327.11"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "50840.64"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "80901.52"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "14884.91"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "30922.86"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "79676.11"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "77594.71"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "34676.92"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "21525.23"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "59824.69"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "26386.76"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "54057.75"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "11090.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "3426.82"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "-3000.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "-11060.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9095.01"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "7808.30"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "7783.91"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "7278.80"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8800.31"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "7259.53"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "10871.03"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9215.73"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9649.82"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "12179.62"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "4578.11"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "12336.94"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "20339.90"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "21011.89"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "13067.94"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "23903.08"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "22821.37"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "26638.85"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "28651.30"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "20883.11"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17440.96"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17321.88"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17026.80"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "22321.14"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "1294.33"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2485.37"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2663.07"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2421.77"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2294.71"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "3795.63"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "1420.66"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2658.20"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2112.26"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2070.33"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "2619.38"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "-16242.80"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "57.14"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "1727.97"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "5969.73"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.54"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "1.72"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.04"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "3.03"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "4.29"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.18"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.69"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "44.01"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "239.22"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1914.41"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "368.86"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1394.64"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1109.90"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "4096.62"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1957.14"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-640.99"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-292.39"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-28.46"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "643.67"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-4149.16"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "808.85"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "6358.58"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "1225.16"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "4632.19"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "4118.45"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "13606.64"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "6500.51"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-2129.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-971.17"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-94.54"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "2137.91"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-11342.32"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "13618.37"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "15968.63"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "10662.59"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "20252.25"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "24497.24"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "25376.02"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "153513.90"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "124994.22"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "44999.77"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "33880.34"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "31571.62"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "7373.03"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "256349.61"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "296686.09"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "309931.70"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "310226.16"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "312549.40"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "352944.21"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "365994.97"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "236024.97"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "231432.09"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "252596.13"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "214698.38"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "185692.01"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "1782.04"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "1944.04"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "4045.10"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "207.93"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "197.23"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "464.48"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "123.50"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "109.87"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "111.41"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "1079.28"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "387.57"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "345.52"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "431577.66"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "421087.25"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "447104.56"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "415692.26"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "408759.11"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "414673.20"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "422069.78"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "426067.77"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "388760.13"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "394972.71"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "404896.73"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "376850.61"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "172.82"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "1549.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "1549.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "31204.80"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "33912.70"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "31451.12"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "34605.94"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "32963.82"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "36834.05"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "34979.03"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "85998.97"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "124021.94"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "151419.84"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "184461.54"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "19832.11"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "362617.36"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "359300.22"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "358804.61"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "358309.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "357813.39"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "357348.66"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "356853.05"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "356357.44"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "355861.83"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "355366.22"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "354870.61"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "541376.77"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "510.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "479.84"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "429.84"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "379.84"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "329.84"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "304.84"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "254.84"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "33195.18"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "33145.18"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "34344.18"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "34991.23"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "89549.62"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "97436.52"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "104073.73"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "96821.02"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "85993.08"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "91492.78"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "227427.88"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "174803.90"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "169682.26"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "181273.80"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "177170.18"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "47682.60"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "300456.78"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "297099.42"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "330906.29"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "292343.55"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "282851.55"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "258091.34"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "238580.27"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "245838.30"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "188393.97"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "230117.31"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "217569.03"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "246985.44"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "8856.04"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "9136.36"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "7595.20"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "11499.94"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "9584.21"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "11181.63"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "17117.39"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "14690.99"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10432.53"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "11822.47"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "12801.62"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "9543.55"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "49234.67"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "47869.77"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "45708.36"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "46239.30"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "49479.10"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "51644.57"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "47476.56"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "48204.33"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "33643.92"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31574.47"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "28869.20"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "30927.97"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3823.36"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3393.46"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3091.89"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3325.27"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3712.78"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "4353.98"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5225.22"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5760.54"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5129.91"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5247.04"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5705.73"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3732.89"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "63414.32"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115502.71"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115502.71"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115502.71"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "14828.54"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "22292.28"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "15210.47"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "19432.80"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "23090.53"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "41065.83"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "44087.75"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "37014.28"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "40191.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "35275.93"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "37031.82"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "9275.82"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "252738.84"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "234851.33"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "550.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "800.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "2425.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "1300.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "1950.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "4750.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "7650.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "2240.05"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "1015.05"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "365.05"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "8690.05"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "8384.98"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "8384.98"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "6408.26"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "6409.98"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "6409.98"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "6409.98"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "5809.98"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "5809.98"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "136500.00"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "181200.00"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "30449.01"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "32363.41"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "32732.28"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "34126.92"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "35236.82"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "39333.44"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "41290.58"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40649.60"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40357.20"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40328.74"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40972.41"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "36823.25"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "101885.89"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "104255.31"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "123331.04"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "127006.51"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "140903.07"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "151530.46"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "192350.37"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "154763.52"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "148376.53"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "145463.03"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "103381.92"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "106795.55"
+},
+{
+"anio": 2008,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "2369.42"
+},
+{
+"anio": 2008,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "19075.73"
+},
+{
+"anio": 2008,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "3675.48"
+},
+{
+"anio": 2008,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "13896.56"
+},
+{
+"anio": 2008,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "10627.39"
+},
+{
+"anio": 2008,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "40819.92"
+},
+{
+"anio": 2008,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "19501.54"
+},
+{
+"anio": 2008,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-6386.99"
+},
+{
+"anio": 2008,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-2913.51"
+},
+{
+"anio": 2008,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-283.61"
+},
+{
+"anio": 2008,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "6413.74"
+},
+{
+"anio": 2008,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-43782.28"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "51694.54"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "51746.25"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "63908.25"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "164373.62"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "79281.99"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "72203.52"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "85401.25"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "84455.52"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "84424.52"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "84454.46"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "84436.29"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "4101",
+"monto": "84364.65"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "1153.58"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "2325.12"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "1601.63"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "224.44"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "315.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "752.83"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "613.79"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "4521.16"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "3304.65"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "4731.57"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "2849.07"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "4102",
+"monto": "1263.95"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "6632.45"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "20758.57"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "27772.94"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "122898.63"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "40124.86"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "42626.53"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "49931.34"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "42449.03"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "43031.08"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "41534.25"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "43046.71"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "5101",
+"monto": "48397.85"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "43444.08"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "4672.84"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "54023.12"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "115564.39"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "23120.85"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "35150.58"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "14290.14"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "16957.49"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "15986.87"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "16223.97"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "15944.58"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "5201",
+"monto": "16317.44"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "685.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8685.56"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8300.52"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8175.23"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8763.62"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8973.14"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8595.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "9156.25"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8632.16"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8760.18"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8609.32"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8810.65"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6101",
+"monto": "8974.09"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "12273.12"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "15937.56"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "17741.59"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "19790.24"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "19465.46"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "19982.45"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "18704.20"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "17633.60"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "17895.13"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "17586.95"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "17998.22"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6102",
+"monto": "18332.10"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1038.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "7682.24"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "-217.82"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "246.09"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "-6370.07"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "732.36"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6201",
+"monto": "1000.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "227.18"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "1113.54"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6202",
+"monto": "500.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.06"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "1.02"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.03"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.02"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "1533.80"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "-243.94"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "610.55"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "863.59"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "1166.20"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "-111.99"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "384.70"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "680.37"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "695.34"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "734.47"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "716.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6301",
+"monto": "412.77"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "5094.41"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "-753.44"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2056.29"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2896.76"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "3901.85"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "-93.58"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "1402.75"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2384.80"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2434.54"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2564.48"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "2503.85"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "6302",
+"monto": "1495.97"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "23960.34"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "46326.21"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "24106.91"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "12526.25"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "66612.10"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "61758.86"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "80294.22"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "85358.21"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "89582.18"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "97038.06"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "97884.44"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1101",
+"monto": "102273.16"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "179877.31"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "202688.15"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "165306.20"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "308458.67"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "281233.62"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "227446.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "226126.01"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "236284.22"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "255791.05"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "264634.21"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "269440.30"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1102",
+"monto": "263349.40"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "588.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "708.77"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "1913.03"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "1298.51"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "270.70"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "96.13"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1103",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "413662.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "397576.51"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "423826.69"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "416492.45"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "399488.44"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "391327.49"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "355686.29"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "330194.75"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "303150.55"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "277840.27"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "250738.14"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1105",
+"monto": "218657.74"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "172.82"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "2731.82"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "11380.77"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "2107.77"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "929.87"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "7118.40"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1106",
+"monto": "4000.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "39481.92"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "40107.15"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "74016.74"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "80725.06"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23298.76"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23686.50"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1108",
+"monto": "23500.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "542645.48"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "544143.58"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "543631.05"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "543118.52"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "616863.09"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "630968.56"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "630456.03"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "629943.50"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "629430.97"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "628918.44"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "628405.91"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1201",
+"monto": "627893.38"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "37297.99"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38797.99"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "45506.32"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "42824.77"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "46308.33"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "44434.39"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "32352.11"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "35968.88"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "32968.88"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "29968.88"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "26968.88"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "23968.88"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "20968.88"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2101",
+"monto": "17968.88"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "290472.66"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "274337.47"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "233700.36"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "335734.27"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "296257.06"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "250381.80"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "255381.80"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "260381.80"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "265381.80"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "265381.80"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "264381.80"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2102",
+"monto": "252381.80"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "10464.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "7224.62"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "5828.94"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "9961.57"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "13265.31"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "14208.63"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2103",
+"monto": "12000.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "32381.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "33871.66"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "25136.20"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "31093.29"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "30328.27"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "31201.84"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "26201.84"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "21201.84"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "16201.84"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "11201.84"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "6201.84"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2104",
+"monto": "1201.84"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "4302.54"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3436.55"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "5551.18"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3656.82"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3267.23"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "4532.80"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "4382.80"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "4232.80"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "4082.80"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3932.80"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3782.80"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2105",
+"monto": "3632.80"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "14299.87"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "16768.75"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "15779.21"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "24964.04"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "17249.77"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "17064.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "14505.03"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "16889.83"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "19324.37"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "21888.84"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "24392.70"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2107",
+"monto": "25888.67"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "234851.33"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "293089.51"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "339998.13"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "335136.13"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "402371.95"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "400499.73"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "382735.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "365383.56"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "354774.15"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "342908.01"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "319864.19"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2201",
+"monto": "299822.42"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "2650.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "2484.36"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "1684.36"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "3534.36"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "38357.05"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "38113.11"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "38723.66"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "39587.25"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "40753.45"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "40641.46"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "41026.16"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "41706.53"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "42401.87"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "43136.34"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "43852.55"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "3102",
+"monto": "44265.32"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "63013.27"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "78296.50"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "75809.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "81864.27"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "90440.96"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "102032.92"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "100638.65"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "104346.88"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "111001.28"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "117804.89"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "124998.31"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "3103",
+"monto": "132009.88"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "15283.23"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "-2487.50"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "6055.27"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "8576.69"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "11591.96"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "-1394.27"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "3708.24"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "6654.40"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "6803.61"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "7193.43"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "7011.56"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "PRESUPUESTO",
+"cuenta": "3104",
+"monto": "3987.92"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "51694.54"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "51746.25"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "63908.25"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "164373.62"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "79281.99"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "72203.52"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "83403.62"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "21684.66"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "74272.43"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "74354.95"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "74429.31"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4101",
+"monto": "74496.97"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1153.58"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "2325.12"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1601.63"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "224.44"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "315.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "752.83"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1882.14"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "4844.01"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1653.72"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1655.55"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1657.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4102",
+"monto": "1658.72"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "6632.45"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "20758.57"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "27772.94"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "122898.63"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "40124.86"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "42626.53"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "47559.86"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "-18564.87"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "91308.52"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "40497.29"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "40583.34"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5101",
+"monto": "40657.55"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "43444.08"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "4672.84"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "54023.12"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "115564.39"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "23120.85"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "35150.58"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "50803.95"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "-2761.05"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "40907.37"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "40952.82"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "40993.77"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5201",
+"monto": "41031.04"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "685.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "5202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8685.56"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8300.52"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8175.23"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8763.62"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8973.14"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8595.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "8040.63"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "7429.89"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9123.88"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9215.12"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "9298.06"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6101",
+"monto": "11180.16"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "12273.12"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "15937.56"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17741.59"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "19790.24"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "19465.46"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "19982.45"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "18406.88"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "15847.60"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17604.92"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "17624.48"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "20960.92"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6102",
+"monto": "21342.02"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "1038.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "7682.24"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "-217.82"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "246.09"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "-6370.07"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "732.36"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "25.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "443.48"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "451.93"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "452.44"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "452.89"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6201",
+"monto": "453.30"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "227.18"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "1113.54"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "113.59"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "240.97"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "241.24"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "241.48"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6202",
+"monto": "241.70"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.06"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "1.02"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.03"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.02"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "4201",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1533.80"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-243.94"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "610.55"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "863.59"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "1166.20"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-111.99"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "516.29"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "809.97"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-3227.81"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "326.82"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "86.48"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6301",
+"monto": "-72.55"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "5094.41"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-753.44"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "2056.29"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "2896.76"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "3901.85"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-93.58"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "1743.21"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "2718.65"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-10660.68"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "1145.81"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "347.60"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "6302",
+"monto": "-180.56"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "23960.34"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "46326.21"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "24106.91"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "12526.25"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "66612.10"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "61758.86"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "57863.12"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "31242.78"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "40955.07"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "41000.57"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "41041.57"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1101",
+"monto": "41078.88"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "179877.31"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "202688.15"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "165306.20"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "308458.67"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "281233.62"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "227446.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "215789.09"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "189567.52"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "239232.95"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "243412.47"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "245257.75"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1102",
+"monto": "245004.21"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "588.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "708.77"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "1913.03"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "1298.51"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "270.70"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "96.13"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "257.90"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "696.82"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "736.07"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "736.89"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "737.62"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1103",
+"monto": "738.29"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1104",
+"monto": "730.29"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "413662.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "397576.51"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "423826.69"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "416492.45"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "399488.44"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "391327.49"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "394571.58"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "410375.40"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "359974.25"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "360429.78"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "360840.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1105",
+"monto": "361213.70"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "172.82"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "2731.82"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "11380.77"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "2107.77"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "929.87"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "7118.40"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "1246.76"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "9188.32"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "4403.16"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "4408.05"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "4412.46"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1106",
+"monto": "4416.47"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "750.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1107",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "39481.92"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "40107.15"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "74016.74"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "80725.06"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "23298.76"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "23686.50"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "25314.13"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "22848.14"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "41596.65"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "41642.87"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "41684.51"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1108",
+"monto": "41722.40"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "542645.48"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "544143.58"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "543631.05"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "543118.52"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "616863.09"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "630968.56"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "655893.50"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "753632.62"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "607958.80"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "608096.60"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "608170.02"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1201",
+"monto": "608190.69"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1202",
+"monto": "12387.10"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1203",
+"monto": "1444.24"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1204",
+"monto": "820.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "37275.39"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "37297.99"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38797.99"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38817.99"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38958.60"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "39347.99"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38512.15"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38554.94"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38593.50"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "1205",
+"monto": "38628.58"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "45506.32"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "42824.77"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "46308.33"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "44434.39"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "32352.11"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "35968.88"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "31332.77"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "39132.87"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "40129.88"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "40174.47"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "40214.64"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2101",
+"monto": "40251.20"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "290472.66"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "274337.47"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "233700.36"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "335734.27"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "296257.06"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "250381.80"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "265789.09"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "272912.97"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "275222.69"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "274972.94"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "275747.91"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2102",
+"monto": "276634.96"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10464.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "7224.62"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "5828.94"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "9961.57"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "13265.31"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "14208.63"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "9723.41"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "13063.25"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10572.17"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10583.92"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10594.50"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2103",
+"monto": "10604.13"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "32381.24"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "33871.66"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "25136.20"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31093.29"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "30328.27"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31201.84"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "30525.19"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "30797.54"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "30973.57"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31007.99"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31039.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2104",
+"monto": "31067.21"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "4302.54"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3436.55"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "5551.18"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3656.82"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3267.23"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "4532.80"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3168.56"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3118.24"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3918.03"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3922.39"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3926.31"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2105",
+"monto": "3929.88"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2106",
+"monto": "115600.21"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "14299.87"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "16768.75"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "15779.21"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "24964.04"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "17249.77"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "17064.67"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "16949.65"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "17816.75"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "7156.07"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "8301.88"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "8649.48"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2107",
+"monto": "8468.93"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "234851.33"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "293089.51"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "339998.13"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "335136.13"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "402371.95"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "400499.73"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "399411.45"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "438211.09"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "359000.63"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "359399.52"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "359758.92"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2201",
+"monto": "360085.97"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "2650.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "2484.36"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "1684.36"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "3534.36"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2202",
+"monto": "0.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "2203",
+"monto": "4663.56"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "310101",
+"monto": "50000.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "310102",
+"monto": "331200.00"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "38357.05"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "38113.11"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "38723.66"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "39587.25"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40753.45"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "40641.46"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "41157.75"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "41967.72"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "38739.91"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "39066.73"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "39153.21"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3102",
+"monto": "39080.65"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "63013.27"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "78296.50"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "75809.00"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "81864.27"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "90440.96"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "102032.92"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "100638.65"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "105754.68"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "113797.02"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "81574.00"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "84770.20"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3103",
+"monto": "85571.54"
+},
+{
+"anio": 2009,
+"mes": 1,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "15283.23"
+},
+{
+"anio": 2009,
+"mes": 2,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-2487.50"
+},
+{
+"anio": 2009,
+"mes": 3,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "6055.27"
+},
+{
+"anio": 2009,
+"mes": 4,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "8576.69"
+},
+{
+"anio": 2009,
+"mes": 5,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "11591.96"
+},
+{
+"anio": 2009,
+"mes": 6,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-1394.27"
+},
+{
+"anio": 2009,
+"mes": 7,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "5116.03"
+},
+{
+"anio": 2009,
+"mes": 8,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "8042.35"
+},
+{
+"anio": 2009,
+"mes": 9,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-32223.02"
+},
+{
+"anio": 2009,
+"mes": 10,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "3196.20"
+},
+{
+"anio": 2009,
+"mes": 11,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "801.33"
+},
+{
+"anio": 2009,
+"mes": 12,
+"escenario": "REAL",
+"cuenta": "3104",
+"monto": "-783.36"
+}
+]

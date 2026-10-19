@@ -10,8 +10,7 @@
     "migrate": "tsx scripts/migrate.ts",
     "seed": "tsx scripts/seed.ts",
     "db:reset": "tsx scripts/migrate.ts --reset && tsx scripts/seed.ts",
-    "test": "jest",
-    "prestart": "npm run build"
+    "test": "jest"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",

@@ -80,8 +80,8 @@ export const EMPRESA = {
   capital_variable: '331200.00',
   numero_acciones: 3812,
   valor_nominal_accion: '100.00',
-  mision: 'Distribuir insumos y productos médicos de primera calidad y alta tecnología, con profesionales capacitados, buscando la satisfacción del cliente.',
-  vision: null
+  mision: 'Somos una empresa que distribuye insumos y productos médicos de primera calidad y de alta tecnología, que cuenta con profesionales especialmente capacitados y buscan la completa satisfacción del cliente.',
+  vision: 'Tener una participación del 100% dentro del mercado salvadoreño y 100% centroamericano, en el rubro de distribución de insumos médicos, con tecnología de punta y medicamentos de excelente calidad.'
 };
 
 type Unidad = '%' | '$' | 'dias' | 'num';

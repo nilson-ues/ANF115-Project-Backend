@@ -10,6 +10,8 @@ import { catalogosRouter } from './modulos/catalogos';
 import { dashboardRouter } from './modulos/dashboard';
 import { empresaRouter } from './modulos/empresa';
 import { estadosRouter } from './modulos/estados';
+import { categoriasRouter, movimientosRouter, periodosRouter } from './modulos/movimientos';
+import { circulanteRouter, planeacionRouter } from './modulos/planeacion';
 import { presupuestoRouter } from './modulos/presupuesto';
 import { usuariosRouter } from './modulos/usuarios';
 
@@ -34,6 +36,11 @@ export function crearApp() {
   app.use('/api/analisis', analisisRouter);
   app.use('/api/presupuesto', presupuestoRouter);
   app.use('/api/dashboard', dashboardRouter);
+  app.use('/api/categorias', categoriasRouter);
+  app.use('/api/movimientos', movimientosRouter);
+  app.use('/api/periodos', periodosRouter);
+  app.use('/api/planeacion', planeacionRouter);
+  app.use('/api/circulante', circulanteRouter);
 
   app.use(rutaNoEncontrada);
   app.use(manejadorErrores);

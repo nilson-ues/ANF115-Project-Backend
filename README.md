@@ -51,3 +51,14 @@ Errores uniformes: `{ "error": { "code": "...", "message": "..." } }`.
 ## Datos
 
 `db/seeds/historico.json` contiene los saldos mensuales de la tesis (real 2008, presupuesto 2009 y real 2009). Las cuentas de resultados guardan el movimiento del mes y las de balance el saldo al cierre.
+
+## Respaldo y restauración
+
+Requiere `pg_dump` y `pg_restore` (cliente de PostgreSQL). Usa las variables `DB_*` del `.env`.
+
+```bash
+./scripts/respaldo.sh                        # crea respaldos/<base>_<fecha>.dump y conserva los 30 más recientes
+./scripts/restaurar.sh respaldos/archivo.dump
+```
+
+En producción, Azure Database for PostgreSQL guarda además respaldos automáticos con 7 días de retención y restauración a un punto en el tiempo.
